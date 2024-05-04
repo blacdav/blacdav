@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blacdav
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Next.js and Typescript
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Open Source and Frontend development projects
 - 📫 How to reach me davidaniefoik@gmail.com
 - 😄 Pronouns: He/Him
